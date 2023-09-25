@@ -26,7 +26,7 @@ private:
     QStackedWidget *stacked_widget;
     /* 首页界面 */
     Home *tongsuo_home;
-    /* 功能1随机数生成界面 */
+    /* 功能1range_proof界面 */
     range_proof *tongsuo_range_proof;
 };
 #endif // MAINWINDOW_H
